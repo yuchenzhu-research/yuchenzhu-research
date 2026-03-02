@@ -1,10 +1,22 @@
 # Hi, I’m Yuchen Zhu 👋
 
-I’m a CS undergrad at Shanghai University. I build tools for AI workflows and care a lot about reproducibility, evaluation, and learning systems.
+I’m a **CS freshman** at Shanghai University. I build tools for AI workflows and care a lot about reproducibility, evaluation, and learning systems.
 
 ---
 
-## What I’m curious about
+## Current focus: Post-training & Agents 🤖
+
+- **LLM post-training**
+  Turning training into an eval-driven loop: data → post-train → evaluate → iterate  
+  (SFT / preference optimization, judge reliability, and robustness after deployment)
+
+- **Agentic AI**
+  Building reliable agents with tool-use, planning, and feedback loops  
+  (including multi-agent orchestration and failure-mode debugging)
+
+---
+
+## What I’m curious about ✨
 
 - AI coding in the agent era  
   How multi-agent collaboration turns into real engineering: toolchains, task decomposition, and feedback loops.
@@ -17,40 +29,23 @@ I’m a CS undergrad at Shanghai University. I build tools for AI workflows and 
 
 ---
 
-## Current focus
+## Selected research and writing 📌
 
-- Building: bots, scripts, and small evaluation pipelines
-- Training: math and CS foundations with strong Python habits and systems intuition
-- Writing: docs that others can run and reproduce
-
----
-
-## Selected research and writing
-
-- ICLR 2026 CAO Workshop accepted  
-  Prompt Drift Lab: Auditing Structured Compliance under Benign Prompt Drift  
+- ICLR 2026 CAO Workshop accepted (scores: **6 / 7 / 8**)  
+  **Prompt Drift Lab: Auditing Structured Compliance under Benign Prompt Drift**  
   Project repo: https://github.com/yuchenzhu-research/iclr2026-cao-prompt-drift-lab  
   OpenReview and camera-ready links coming soon
 
 ---
 
-## Toolbox
+## Style 🧭
 
-- Python
-- Notebooks and CLI tooling
-- LaTeX, Zotero, structured notes
-- Evaluation harnesses, versioned prompts and datasets, reproducible folder layouts
-
----
-
-## Principles
-
-- Engineering over vibes: it should run, reproduce, and stay maintainable
-- Iterate in phases: make it work, make it strong, make it clean, then automate
+- Engineering over vibes: it should run, reproduce, and stay maintainable  
+- Iterate in phases: make it work → make it strong → make it clean → automate  
 - Reduce cognitive load: split big problems into independent parts
 
 ---
 
-## Contact
+## Contact 📫
 
 Email: zyc20070222@gmail.com
