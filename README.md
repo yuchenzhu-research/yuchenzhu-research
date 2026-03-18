@@ -31,10 +31,11 @@ I’m a **CS freshman** at Shanghai University. I build tools for AI workflows a
 
 ## Selected research and writing 📌
 
-- ICLR 2026 CAO Workshop accepted (scores: **6 / 7 / 8**)  
-  **Prompt Drift Lab: Auditing Structured Compliance under Benign Prompt Drift**  
-  Project repo: https://github.com/yuchenzhu-research/iclr2026-cao-prompt-drift-lab  
-  OpenReview and camera-ready links coming soon
+- ICLR 2026 CAO Workshop paper (accepted; scores: 6 / 7 / 8)  
+  **Prompt-Level Drift as an Operational Monitoring Problem: Schema Failure Cliffs and Judge-Version Risk in Artifact-Grounded Evaluation**  
+  Camera-ready completed · Poster presentation  
+  OpenReview: https://openreview.net/forum?id=PGoKUAy8XW#discussion  
+  Project repo: https://github.com/yuchenzhu-research/iclr2026-cao-prompt-drift-lab
 
 ---
 
