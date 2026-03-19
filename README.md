@@ -31,7 +31,7 @@ I’m a **CS freshman** at Shanghai University. I build tools for AI workflows a
 
 ## Selected research and writing 📌
 
-- ICLR 2026 CAO Workshop paper (accepted; scores: 6 / 7 / 8)  
+- ICLR 2026 CAO Workshop paper (poster; scores: 6 / 7 / 8)  
   **Prompt-Level Drift as an Operational Monitoring Problem: Schema Failure Cliffs and Judge-Version Risk in Artifact-Grounded Evaluation**  
   Camera-ready completed · Poster presentation  
   OpenReview: https://openreview.net/forum?id=PGoKUAy8XW#discussion  
